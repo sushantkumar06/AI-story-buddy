@@ -1,4 +1,4 @@
-# Peblo Story Buddy
+# Ai Story Buddy
 
 A Flutter application that narrates a story using Text-to-Speech and then presents an interactive quiz based on the story.
 
